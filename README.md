@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Steven Wen
+- 👋 Hi, I’m Steven(Yifan) Wen
 - 👀 I’m interested in Data Analysis, Game Gevelopment and software design.
 - 🌱 I’m currently learning Neural Networks and machine learning.
 - 📌 I'm currently working on Big Data Ingestion and Analysis
